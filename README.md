@@ -75,3 +75,5 @@
 3. 按顺序执行 `scripts/` 目录下的脚本 `01` 至 `06`。
 
 ---
+### 📊 结果展示
+![Top 10 Expressed Genes](top10_genes_final.png)
